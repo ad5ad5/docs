@@ -68,3 +68,4 @@ versions:
     {% link_in_list /merging-a-pull-request %}
     {% link_in_list /closing-a-pull-request %}
     {% link_in_list /reverting-a-pull-request %}
+
